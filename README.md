@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @L3w15DM
+- 👋 Hi, I’m Deshore
 - 👀 I’m interested in implementing the skills I am learing in Front Web Development to create Websites. 
 - 🌱 I’m currently learning Front End Web Development(HTML, CSS, JAVASCRIPT). And also, interested in learning about the Back End of Web Development.
 - 💞️ I’m looking to collaborate on building websites.
