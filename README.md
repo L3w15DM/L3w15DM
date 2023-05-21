@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @L3w15DM
-- 👀 I’m interested in developing skills in Computer Science.
-- 🌱 I’m currently learning how to code.
-- 💞️ I’m looking to collaborate on anything and everything.
+- 👀 I’m interested in implementing the skills I am learing in Front Web Development to create Websites. 
+- 🌱 I’m currently learning Front End Web Development(HTML, CSS, JAVASCRIPT). And also, interested in learning about the Back End of Web Development.
+- 💞️ I’m looking to collaborate on building websites.
 - 📫 How to reach me: delewis339@gmail.com
 
 <!---
